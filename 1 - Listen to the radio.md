@@ -1,6 +1,6 @@
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-Previous | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/Ten%20codes.md)
+Previous | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/2%20-%20Ten%20codes.md)
 
 ------
 
@@ -22,4 +22,4 @@ The New River Valley uses analogue radio, which is more susceptible to backgroun
 ------
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-Previous | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/Ten%20codes.md)
+Previous | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/2%20-%20Ten%20codes.md)
