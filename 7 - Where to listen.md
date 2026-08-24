@@ -1,6 +1,6 @@
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/6%20-%20EMS%20priorities,%20local%20services,%20and%20triage.md) | Next
+[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/6%20-%20EMS%20priorities%2C%20local%20services%2C%20and%20triage.md) | Next
 
 ------
 
@@ -26,4 +26,4 @@ https://scannrv.com/
 
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/6%20-%20EMS%20priorities,%20local%20services,%20and%20triage.md) | Next
+[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/6%20-%20EMS%20priorities%2C%20local%20services%2C%20and%20triage.md) | Next
