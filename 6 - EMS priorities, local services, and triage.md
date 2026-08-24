@@ -1,6 +1,6 @@
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/Radio%20channels%20and%20units.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/Where%20to%20listen.md)
+[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/5%20-%20Radio%20channels%20and%20units.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/7%20-%20Where%20to%20listen.md)
 
 ------
 
@@ -57,4 +57,4 @@ Life-Guard is the local air ambulance service provided by Carilion Clinic. They 
 
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/Radio%20channels%20and%20units.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/Where%20to%20listen.md)
+[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/5%20-%20Radio%20channels%20and%20units.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/7%20-%20Where%20to%20listen.md)
