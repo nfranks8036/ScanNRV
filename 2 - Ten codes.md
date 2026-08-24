@@ -1,6 +1,6 @@
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/Listen%20to%20the%20radio.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/Lingo%20and%20jargon.md)
+[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/1%20-%20Listen%20to%20the%20radio.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/3%20-%20Lingo%20and%20jargon.md)
 
 ------
 
@@ -86,4 +86,4 @@ __**More Ten Codes**__ <br>
 ------
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/Listen%20to%20the%20radio.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/Lingo%20and%20jargon.md)
+[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/1%20-%20Listen%20to%20the%20radio.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/3%20-%20Lingo%20and%20jargon.md)
