@@ -14,6 +14,9 @@ __**Police Ten Codes**__ <br>
 `10-6` - Busy, Unless Emergent <br>
 `10-7` - Out of Service <br>
 `10-8` - In Service (usually said by units when returning to patrol, or when they're finished with a call) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;* Often police will clear with an "incident disposition", which is a numeric value that tells dispatch *why* the incident is closed. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;* These numeric values are difficult to assign meaning to because they're *extremely* agency-dependent (even more than ten codes)! <br>
+&nbsp;&nbsp;&nbsp;&nbsp;* Example: "10-8 16" (means in-service, assist agency) <br>
 `10-9` - Say Again <br>
 `10-10` - Fight <br>
 `10-12` - Standby (Wait) <br>
@@ -26,8 +29,8 @@ __**Police Ten Codes**__ <br>
 `10-23` - Arrived on Scene <br>
 `10-25` - Meet at... <br>
 `10-27` - Driver's License / ID Check <br>
-    \* NRV will respond with: `[Licensed status]` / `[Warrants or Other Restrictions]` <br>
-    \* A person who is licensed and has no warrants may return "Licensed, negative 29" (see: `10-29`) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;* NRV will respond with: `[Licensed status]` / `[Warrants or Other Restrictions]` <br>
+&nbsp;&nbsp;&nbsp;&nbsp;* A person who is licensed and has no warrants may return "Licensed, negative 29" (see: `10-29`) <br>
 `10-28` - Vehicle Registration Info <br>
 `10-29` - Check for Warrants / Wanted Status <br>
 `10-32` - Gun / Individual with Gun <br>
