@@ -1,6 +1,6 @@
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/Lingo%20and%20jargon.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/Radio%20channels%20and%20units.md)
+[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/3%20-%20Lingo%20and%20jargon.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/5%20-%20Radio%20channels%20and%20units.md)
 
 ------
 
@@ -23,4 +23,4 @@ This is where the primary content of the message is transmitted.
 ------
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/Lingo%20and%20jargon.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/Radio%20channels%20and%20units.md)
+[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/3%20-%20Lingo%20and%20jargon.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/5%20-%20Radio%20channels%20and%20units.md)
