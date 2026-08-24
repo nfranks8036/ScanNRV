@@ -1,3 +1,9 @@
+[Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
+
+Previous | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/Ten%20codes.md)
+
+------
+
 # Listening to the Radio - NRV911
 ## How does the radio work?
 Unlike a traditional radio scanner, this radio system does not just listen to one channel at a time - it listens to *many* at the exact same time.
@@ -13,3 +19,7 @@ The radio receiver is stationed in **Christiansburg, VA** as of August 24, 2026.
 
 The New River Valley uses analogue radio, which is more susceptible to background noise than other forms of radio. Blacksburg Transit, on the other hand, uses a form of digital radio (called "DMR"), which is less susceptible to background noise and interference. If anyone has any questions about the specifics about how this system is set-up, send a direct message to Noah Franks from Firewatch (contact via Discord preferred).
 
+------
+[Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
+
+Previous | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/Ten%20codes.md)
