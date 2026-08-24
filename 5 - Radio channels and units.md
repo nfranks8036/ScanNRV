@@ -1,6 +1,6 @@
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/Callouts.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/EMS%20priorities%2C%20local%20services%2C%20and%20triage.md)
+[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/4%20-%20Callouts.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/6%20-%20EMS%20priorities%2C%20local%20services%2C%20and%20triage.md)
 
 ------
 
@@ -59,4 +59,4 @@ There are several radio channels used in the New River Valley for units to commu
 
 [Table of Contents](https://github.com/nfranks8036/ScanNRV/blob/main/README.md)
 
-[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/Callouts.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/EMS%20priorities%2C%20local%20services%2C%20and%20triage.md)
+[Previous](https://github.com/nfranks8036/ScanNRV/blob/main/4%20-%20Callouts.md) | [Next](https://github.com/nfranks8036/ScanNRV/blob/main/6%20-%20EMS%20priorities%2C%20local%20services%2C%20and%20triage.md)
