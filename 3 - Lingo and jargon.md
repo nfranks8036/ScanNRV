@@ -20,7 +20,7 @@ __**Other Codes & Abbreviations**__ <br>
 `EtOH` - Chemical shorthand for ethyl alcohol, often meaning alcohol is involved or a subject is intoxicated <br>
 `BLS`/`ALS` - **B**asic vs **A**dvanced **L**ife **S**upport in EMS, this is the level of care provided ("Rescue" is BLS, "Medic" is ALS). ([more](https://www.redcross.org/take-a-class/bls-training/difference-between-als-and-bls/)) <br>
 `CAD` - **C**omputer **A**ided **D**ispatch, the software used by dispatchers ([more](https://www.dhs.gov/sites/default/files/publications/CAD_TN_0911-508.pdf)) <br>
-`EMD` - **E**mergency **M**edical **D**ispatch, see [the EMS priorities]([https://discord.com/channels/862145376646856725/1199736805168259254/1447753171194871930](https://github.com/nfranks8036/ScanNRV/blob/main/6%20-%20EMS%20priorities%2C%20local%20services%2C%20and%20triage.md)) section for more info <br>
+`EMD` - **E**mergency **M**edical **D**ispatch, see [the EMS priorities](https://github.com/nfranks8036/ScanNRV/blob/main/6%20-%20EMS%20priorities%2C%20local%20services%2C%20and%20triage.md) section for more info <br>
 `NOL` - **N**ext **O**n **L**ist, call next tow truck in the rotation to ensure fair distribution of calls for tow companies <br>
 `EDP` - **E**motionally **D**isturbed **P**erson, this is a call type typically involving a mental health crisis or emotional distress <br>
 `MDT` - **M**obile **D**ata **T**erminal, the computer police have to show calls, people, and incident info <br>
