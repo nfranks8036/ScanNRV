@@ -5,7 +5,7 @@
 ------
 
 ## Lingo and jargon
-Police, fire, and rescue use more than just ten codes, sometimes they use jargon and specific phrases that aid with efficient communication over the radio. If you hear something over the radio that's not on this list, ask about it in #radio-chat! If someone knows the answer, it may get added to this list.
+Police, fire, and rescue use more than just ten codes, sometimes they use jargon and specific phrases that aid with efficient communication over the radio. If you hear something over the radio that's not on this list, please create an issue on GitHub. There are no doubt people who have the same question as you, and this way we can add it to the list.
 
 __**Other Codes & Abbreviations**__ <br>
 `MVC` - **M**otor **V**ehicle **C**rash, which is a vehicle versus another vehicle, pedestrian, bicyclists, or object <br>
