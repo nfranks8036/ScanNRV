@@ -8,7 +8,7 @@
 Police, fire, and rescue use more than just ten codes, sometimes they use jargon and specific phrases that aid with efficient communication over the radio. If you hear something over the radio that's not on this list, ask about it in #radio-chat! If someone knows the answer, it may get added to this list.
 
 __**Other Codes & Abbreviations**__ <br>
-`MVC` - Motor vehicle crash
+`MVC` - Motor vehicle crash <br>
 `Code 3` - Respond with lights / sirens <br>
 `Code 4` - Situation under control / secure / no further assistance is required <br>
 `Code Gray` - Deceased without life-saving efforts (i.e., dead on arrival) <br>
